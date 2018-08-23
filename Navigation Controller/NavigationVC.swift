@@ -1,20 +1,18 @@
 //
-//  ViewController.swift
+//  NavigationVC.swift
 //  Navigation Controller
 //
 //  Created by kiran on 8/23/18.
 //  Copyright © 2018 kiran. All rights reserved.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
-
+class NavigtionVC: UINavigationController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-
+    
+    
 }
-
